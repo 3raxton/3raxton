@@ -3,9 +3,6 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.dualstack.us-
 <h1 align="center">Welcome to the club, I'm glad you're here</h1>
 <p align="center">I'm glad you're here! Currently I'm searching for positions as an Interaction / Product Designer in tech 📲 Take a look at some of the playlists I'm listening to, what I'm interested, and how you can connect with me. Feel free to reach out anywhere, I'd love to chat!</p>
 <p align="center">
-  
-<br>
-
 </p>
 
 ## 💾 A few things I'm learning about & trying out
