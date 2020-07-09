@@ -14,11 +14,11 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.dualstack.us-
   - <a href = https://www.reddit.com/r/OSXTweaks/> OSXTweaks </a>
   - <a href = https://github.com/MacEnhance/MacForge/> MacForge </a>
   
-### 👀 Beta Testing
+<!-- ### 👀 Beta Testing
   - RoadTrip 
   - YourStack
   - impulse
-  - SESH 
+  - SESH -->
 
 ## 📂 Connect with & learn about me
 - <a href= https://twitter.com/3raxton> Twitter </a>
