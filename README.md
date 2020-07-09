@@ -5,6 +5,8 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.dualstack.us-
 <p align="center">
 </p>
 
+<br>
+
 ## 💾 A few things I'm learning about & trying out
 
 ### Tweaking macOS
