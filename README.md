@@ -20,19 +20,13 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.dualstack.us-
   - impulse
   - SESH 
 
-<br>
-
 ## 📂 Connect with & learn about me
 - <a href= https://twitter.com/3raxton> Twitter </a>
 - <a href= https://linkedIn.com/3raxton> LinkedIn </a>
 - <a href= https://braxtonhuff.com> Portfolio </a>
 
-<br>
-
 ## 📚 Recommend a book 
 - Open an issue!
-
-<br>
 
 ## 🎶 Check out a few of my playlsits 
 - <a href= https://open.spotify.com/playlist/7mVYdvUPOoe47XUPMxYSIr> blue </a> 
