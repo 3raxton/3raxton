@@ -25,8 +25,8 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.dualstack.us-
 - <a href= https://linkedIn.com/3raxton> LinkedIn </a>
 - <a href= https://braxtonhuff.com> Portfolio </a>
 
-## 📚 Recommend a book 
-- Open an issue!
+<!-- ## 📚 Recommend a book 
+- Open an issue! -->
 
 ## 🎶 Check out a few of my playlsits 
 - <a href= https://open.spotify.com/playlist/7mVYdvUPOoe47XUPMxYSIr> blue </a> 
