@@ -30,7 +30,7 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.dualstack.us-
 <br>
 
 ## 📚 Recommend a book 
-- Open a pull request!
+- Open an issue!
 
 <br>
 
