@@ -32,3 +32,8 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.dualstack.us-
 - <a href= https://open.spotify.com/playlist/7mVYdvUPOoe47XUPMxYSIr> blue </a> 
 - <a href= https://open.spotify.com/playlist/2FjUNPyImNqs6g4IbzE2IN> SMTHNHYPE </a>
 - <a href= https://open.spotify.com/playlist/1fTjmHXEpTlJsz1j1rcijh> strange vibe </a>
+
+## 💻 Scroll down and see some of my work
+- <a href= https://open.spotify.com/playlist/7mVYdvUPOoe47XUPMxYSIr> blue </a> 
+- <a href= https://open.spotify.com/playlist/2FjUNPyImNqs6g4IbzE2IN> SMTHNHYPE </a>
+- <a href= https://open.spotify.com/playlist/1fTjmHXEpTlJsz1j1rcijh> strange vibe </a>
