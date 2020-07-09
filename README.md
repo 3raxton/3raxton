@@ -19,7 +19,7 @@ target="_blank"><br><img width="100" src="https://emojipedia-us.s3.dualstack.us-
   - impulse
   - SESH 
 
-## 📂 Connect with & learn about me:
+## 📂 Connect with & learn about me
 - <a href= https://twitter.com/3raxton> Twitter </a>
 - <a href= https://linkedIn.com/3raxton> LinkedIn </a>
 - <a href= https://braxtonhuff.com> Portfolio </a>
