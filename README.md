@@ -30,6 +30,4 @@
 - <a href= https://open.spotify.com/playlist/7mVYdvUPOoe47XUPMxYSIr> blue </a> 
 - <a href= https://open.spotify.com/playlist/2FjUNPyImNqs6g4IbzE2IN> SMTHNHYPE </a>
 - <a href= https://open.spotify.com/playlist/1fTjmHXEpTlJsz1j1rcijh> strange vibe </a>
-
-## My last week in music as a Gist
-- <a href= https://gist.github.com/3raxton/aae8383ab356fa0de58066fd54ec829e> My last week in music </a> 
+- <a href= https://gist.github.com/3raxton/aae8383ab356fa0de58066fd54ec829e> My last week in music as a Gist</a> 
