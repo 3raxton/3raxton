@@ -20,13 +20,16 @@
 
 ## 📂 Connect with & learn about me
 - <a href= https://twitter.com/3raxton> Twitter </a>
-- <a href= https://linkedIn.com/3raxton> LinkedIn </a>
-- <a href= https://braxtonhuff.com> Portfolio </a>
+- <a href= https://linkedIn.com/braxtonhuff> LinkedIn </a>
+- <a href= https://braxtonhuff.com> Website </a>
 
 <!-- ## 📚 Recommend a book 
 - Open an issue! -->
 
-## 🎶 Check out a few of my playlsits 
+## 🎶 Check out what I'm listening to
 - <a href= https://open.spotify.com/playlist/7mVYdvUPOoe47XUPMxYSIr> blue </a> 
 - <a href= https://open.spotify.com/playlist/2FjUNPyImNqs6g4IbzE2IN> SMTHNHYPE </a>
 - <a href= https://open.spotify.com/playlist/1fTjmHXEpTlJsz1j1rcijh> strange vibe </a>
+
+## My last week in music as a Gist
+- <a href= https://gist.github.com/3raxton/aae8383ab356fa0de58066fd54ec829e> My last week in music </a> 
