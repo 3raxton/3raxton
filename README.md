@@ -20,7 +20,7 @@
 
 ## 📂 Connect with & learn about me
 - <a href= https://twitter.com/3raxton> Twitter </a>
-- <a href= https://linkedIn.com/braxtonhuff> LinkedIn </a>
+- <a href= https://linkedIn.com/in/braxtonhuff> LinkedIn </a>
 - <a href= https://braxtonhuff.com> Website </a>
 
 <!-- ## 📚 Recommend a book 
