@@ -5,6 +5,13 @@
 
 <br>
 
+## 📂 Connect with & learn about me
+- <a href= https://linkedIn.com/in/braxtonhuff> LinkedIn </a>
+- <a href= https://braxtonhuff.com> Website </a>
+- <a href= https://braxtonhuff.com/resume> Resume </a>
+- <a href= https://twitter.com/3raxton> Twitter </a>
+
+
 ## 💾 A few things I'm learning about & trying out
 
 ### Tweaking macOS
@@ -17,11 +24,6 @@
   - YourStack
   - impulse
   - SESH -->
-
-## 📂 Connect with & learn about me
-- <a href= https://twitter.com/3raxton> Twitter </a>
-- <a href= https://linkedIn.com/in/braxtonhuff> LinkedIn </a>
-- <a href= https://braxtonhuff.com> Website </a>
 
 <!-- ## 📚 Recommend a book 
 - Open an issue! -->
