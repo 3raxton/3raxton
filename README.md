@@ -1,4 +1,4 @@
-<h1 align="center">Pssst... I'm searching for Interaction Design jobs 🔥</h1>
+<h1 align="center">Pssst... I'm searching for Product Design / Interaction Design jobs 🔥</h1>
 <p align="center">I'm glad you're here! Currently I'm searching for positions as an Interaction Designer in tech 📲 Take a look at some of the playlists I'm listening to, what I'm interested in, and how you can connect with me. Feel free to reach out anywhere, I'd love to chat!</p>
 <p align="center">
 </p>
