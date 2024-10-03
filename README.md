@@ -11,6 +11,7 @@
 - <a href= https://braxtonhuff.com/resume> Resume </a>
 - <a href= https://twitter.com/3raxton> Twitter </a>
 
+<br>
 
 ## 💾 A few things I'm learning about & trying out
 
@@ -27,6 +28,8 @@
 
 <!-- ## 📚 Recommend a book 
 - Open an issue! -->
+
+<br>
 
 ## 🎶 Check out what I'm listening to
 - <a href= https://open.spotify.com/playlist/7mVYdvUPOoe47XUPMxYSIr> blue </a> 
