@@ -35,4 +35,5 @@
 - <a href= https://open.spotify.com/playlist/7mVYdvUPOoe47XUPMxYSIr> blue </a> 
 - <a href= https://open.spotify.com/playlist/2FjUNPyImNqs6g4IbzE2IN> SMTHNHYPE </a>
 - <a href= https://open.spotify.com/playlist/1fTjmHXEpTlJsz1j1rcijh> strange vibe </a>
-- <a href= https://music-crate.vercel.app> My last week in music as a Gist</a> 
+- <a href= https://music-crate.vercel.app> My last week in music, once a Gist, now a full site</a> 
+
